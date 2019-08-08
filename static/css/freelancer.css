@@ -10664,7 +10664,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 #mainNav .navbar-brand {
-  color: #fff;
+  color: #debb1038 !important;
 }
 
 #mainNav .navbar-nav {
